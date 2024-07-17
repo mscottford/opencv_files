@@ -1,8 +1,12 @@
 # opencv_files
 
-OpenCV Windows binaries for [opencvsharp](https://github.com/shimat/opencvsharp)
+## Fork Notice
 
-![Windows Server 2022](https://github.com/shimat/opencv_files/workflows/Windows%20Server%202022/badge.svg)
+This repository is a fork. It supports building the `MScottFord.Forks.OpenCvSharp4.*` packages.
+
+OpenCV Windows binaries for [opencvsharp](https://github.com/mscottford/opencvsharp)
+
+![Windows Server 2022](https://github.com/mscottford/opencv_files/workflows/Windows%20Server%202022/badge.svg)
 
 ## Requirements
 - [CMake](https://cmake.org/)
